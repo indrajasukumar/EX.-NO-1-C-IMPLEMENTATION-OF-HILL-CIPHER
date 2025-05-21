@@ -60,7 +60,7 @@ void HillCipher(char message[], char key[]) {
 }
 
 int main() {
-    char message[] = "ABINAV";
+    char message[] = "INDRAJA";
     char key[] = "GYBNQKURP";
 
     printf("Original Text: %s\n", message);
@@ -70,7 +70,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d8a0feb1-e52e-4499-8a57-b85484a1b749)
+![Screenshot 2025-05-21 154328](https://github.com/user-attachments/assets/6c489f70-21eb-473b-bc59-f86330ee29f3)
 
 ## RESULT:
   Thus the hill cipher substitution technique had been implemented successfully.
